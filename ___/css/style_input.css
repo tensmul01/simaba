@@ -1,0 +1,19 @@
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+input[type="number"]:hover,
+input[type="number"]:focus {
+    -moz-appearance: number-input;
+	border-bottom: 2px solid red;
+	color:blue;
+
+}
+.input-nilai {
+	width:50px;
+	text-align:center;
+	max-length:3;
+	border: 0;
+	border-bottom: 1px dotted blue;
+	color:blue;
+	font-size:medium;
+}

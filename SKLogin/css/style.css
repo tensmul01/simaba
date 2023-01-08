@@ -1,0 +1,78 @@
+
+.text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important; 
+}
+
+.login100-form-btn {
+    background-color: seagreen;
+	cursor: pointer;
+}
+
+.login100-form-btn:hover {
+    background-color: mediumseagreen;
+}
+
+.bgseagreen {
+    background-color: seagreen;
+}
+
+.bgseagreen:hover {
+    background-color: mediumseagreen;
+}
+
+a:hover {
+    color: mediumseagreen;
+}
+
+a {
+    color: seagreen;
+}
+
+
+.focus-input100 {
+    border: 1px solid seagreen;
+  }
+  
+
+.input-checkbox100:checked + .label-checkbox100::before {
+    color: seagreen;
+ }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+  
+.login100-form-title {
+    font-size: 28px;
+}
+
+.label-checkbox100 {
+    font-size: 14px;
+}
+
+.txt2 {
+    font-size: 14px;
+}
+
+.txt12 {
+    color: seagreen;
+}
+
+.login100-form {
+    background-color: snow;
+}
+
+.handaptengah {
+    line-height: 16px;
+    text-align: center;
+    color: snow;
+    vertical-align: text-bottom;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 20px;
+}
